@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\bin\Debug\net9.0\HerenciaEnPOO.exe
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\bin\Debug\net9.0\HerenciaEnPOO.deps.json
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\bin\Debug\net9.0\HerenciaEnPOO.runtimeconfig.json
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\bin\Debug\net9.0\HerenciaEnPOO.dll
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\bin\Debug\net9.0\HerenciaEnPOO.pdb
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\net9.0\HerenciaEnPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\net9.0\HerenciaEnPOO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\net9.0\HerenciaEnPOO.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\net9.0\HerenciaEnPOO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\net9.0\HerenciaEnPOO.dll
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\net9.0\refint\HerenciaEnPOO.dll
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\net9.0\HerenciaEnPOO.pdb
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\net9.0\HerenciaEnPOO.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Pascual Bravo\Herramientas de programación 1\Menús y funciones\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\net9.0\ref\HerenciaEnPOO.dll
